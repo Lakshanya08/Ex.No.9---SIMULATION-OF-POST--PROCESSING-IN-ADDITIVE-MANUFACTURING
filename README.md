@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 23/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -59,7 +59,7 @@
 ![image](https://github.com/user-attachments/assets/6ad8f30f-76da-409e-adf1-96ce7b62d408)
 
 
-### Name: Lakshanya N
+### Name: N.Lakshanya
 ### Register Number: 24900253
 
 ## Result: 
